@@ -3,7 +3,7 @@
 # Hi, I'm Magda! 👋
 
 
-👩‍💻 I'm currently working on POSTMAN collection for PokeApi
+👩‍💻 I'm currently working on POSTMAN tests for Trello API
 
 🧠 I'm currently learning Complete Roadmap to Become an API Tester from [Testing Academy](https://www.youtube.com/watch?v=e6otrkQNaCA&list=PL8VbCbavWfeEvyUo5qCEw96LNjPR5rR2k&index=1)
 
