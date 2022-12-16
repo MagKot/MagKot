@@ -12,11 +12,9 @@
 
 ## [Generic Shop Testing Project](https://github.com/MagKot/Generic-Shop-Testing)
 
-Whole project [here](https://github.com/MagKot/Generic-Shop-Testing).
-
 I've decided to make a project that included test plan, test cases and test report of [Generic Shop](http://skleptest.pl/) e-commerce website
 
-For Test Plan, Test Cases and Bug Report I was using TestLink, Bugs were reported in Jira. 
+For Test Plan, Test Cases and Bug Report I was using TestLink, Bugs were reported in Jira. Everything is in polish for now.
 
 ## [POSTMAN PokeApi Project](https://github.com/MagKot/Postman-PokeAPI-Collection)
 
