@@ -10,7 +10,7 @@
 📫 You can reach me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdalena-kotkiewicz/)
 
 
-## Generic Shop Testing Project
+## [Generic Shop Testing Project](https://github.com/MagKot/Generic-Shop-Testing)
 
 Whole project [here](https://github.com/MagKot/Generic-Shop-Testing).
 
@@ -18,6 +18,6 @@ I've decided to make a project that included test plan, test cases and test repo
 
 For Test Plan, Test Cases and Bug Report I was using TestLink, Bugs were reported in Jira. 
 
-## POSTMAN PokeApi Project
+## [POSTMAN PokeApi Project](https://github.com/MagKot/Postman-PokeAPI-Collection)
 
 [PokeAPI]( https://pokeapi.co/) Postman Collection
